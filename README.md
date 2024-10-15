@@ -32,7 +32,7 @@ Quizzy is a quiz management system built with React for the frontend and Node.js
 ```bash
 git clone <repository-url>
 cd quizzy
-
+```
 
 ### Install Server Dependencies
 ```bash
